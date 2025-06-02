@@ -5,8 +5,7 @@ I'm Jiyoung Oh, an aspiring backend developer who loves building solid server-si
 
 I've been diving deep into Java, Spring Boot, and JPA lately — and I’m especially fascinated by designing APIs, managing databases, and deploying with AWS & Docker. ☁️🐳
 
-While I'm still on my journey, I'm passionate about writing clean, scalable code and learning DevOps tools that make development smoother.  
-I believe great backend is invisible but powerful — just like magic behind the curtain! 🎩✨
+While I'm still on my journey, I'm passionate about writing clean, scalable code and learning DevOps tools that make development smoother.  I believe great backend is invisible but powerful — just like magic behind the curtain! 🎩✨
 
 
 ## 📫 Contact & Links
