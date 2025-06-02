@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=%20Welcome%20to%20OH!'s%20GitHub🐈‍⬛&fontSize=30&theme=blur)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=%20Welcome%20to%20OH!'s%20GitHub🐈‍⬛&fontSize=30&fontColor=000000&theme=blur)
 
 ## 👋 About Me
 I'm Jiyoung Oh, an aspiring backend developer who loves building solid server-side systems and exploring how things work under the hood. 🧑‍💻🔧
