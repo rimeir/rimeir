@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=%20Welcome%20to%20OH!'s%20GitHub🐈‍⬛&fontSize=30&fontColor=000000&theme=blur)
 
 ## 👋 About Me
-I'm Jiyoung Oh, an aspiring backend developer who loves building solid server-side systems and exploring how things work under the hood. 🧑‍💻🔧
-
-I've been diving deep into Java, Spring Boot, and JPA lately — and I’m especially fascinated by designing APIs, managing databases, and deploying with AWS & Docker. ☁️🐳
+I'm Jiyoung Oh, an aspiring backend developer who loves building solid server-side systems and exploring how things work under the hood. I've been diving deep into Java, Spring Boot, and JPA lately — and I’m especially fascinated by designing APIs, managing databases, and deploying with AWS & Docker. 
 
 While I'm still on my journey, I'm passionate about writing clean, scalable code and learning DevOps tools that make development smoother.  I believe great backend is invisible but powerful — just like magic behind the curtain! 🎩✨
 
