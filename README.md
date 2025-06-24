@@ -11,9 +11,6 @@ I believe great backend is invisible but powerful — just like magic behind the
 
 ## 📫 Contact & Links
 <p align="center"> 
-  <a href="https://github.com/rimeir">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="mailto:skfsk16022@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
